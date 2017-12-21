@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.newyork {
+  color: white;
+}
+
+footer {
+  text-align: left;
+}
