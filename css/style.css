@@ -9,6 +9,10 @@ h1 {
   font-size: 70px;
 }
 
+.header {
+  background-image: url(resources/images/the-flatiron-building.png);
+}
+
 h2 {
   font-size: 32px;
 }
