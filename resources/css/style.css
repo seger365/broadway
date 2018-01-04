@@ -9,8 +9,16 @@ h1 {
 }
 
 .header {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url(../images/the-flatiron-building.png);
+  background-size: cover;
   color: white;
+  font-weight: bold;
+  line-height: 30px;
+  padding-top: 10px;
+}
+
+ul {
+  list-style-type: none;
 }
 
 nav a {
@@ -42,7 +50,7 @@ footer {
 
 h4 {
   color: white;
-  background: url("resources/images/the-flatiron-building.png");
+  background: url(../images/the-flatiron-building.png);
 }
 
 footer a {
